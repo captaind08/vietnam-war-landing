@@ -11,7 +11,7 @@ A Vietnamese-first bilingual educational landing page about the Vietnam War, bui
   - Middle: South Vietnam legitimacy crisis, Gulf of Tonkin, U.S. escalation, Tet, Laos/Cambodia
   - End: Paris Peace Accords, Fall of Saigon, reunification, re-education, refugees, Agent Orange, UXO, diaspora memory
 - Archival/public-domain image blocks with visible captions and source links
-- Illustrated map section
+- War-geography schematic section
 - Contextual timeline
 - Source library for verification
 
